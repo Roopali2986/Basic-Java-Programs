@@ -1,0 +1,17 @@
+public class JavaPro3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("The output is : ");
+		System.out.println(9+6-3*4/2%5);
+		
+  // Through this program we understand the priority of the operators
+		// Order  = * , / , % , + , -
+		
+	}
+
+}
+
+The output = 
+14
