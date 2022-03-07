@@ -1,0 +1,14 @@
+public class JavaPro2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("The the output is : ");
+		System.out.println((2+3)*4);
+
+		
+		// This program explains about the importance of the round bracket priority
+		// Circular brackets have high priority over multiplication operator 
+	}
+
+}
