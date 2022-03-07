@@ -1,0 +1,15 @@
+public class JavaPro1 {
+
+	public static void main(String[] args) {
+		
+		System.out.println(" The output is = ");
+		System.out.println(-6+4*2);
+		
+	//This program is to understand the priority of operators
+		// * is the highest priority, second id + operator and next - operator
+		
+		// so 4*2 = 8 and -6+8 = 2
+
+	}
+
+}
